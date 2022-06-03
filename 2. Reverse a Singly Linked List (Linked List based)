@@ -12,3 +12,5 @@ Node reverseList(Node head)
         }
         return prev;
     }
+//Though it's a very Easy problem but still sometimes many a people get's confused while solving this problem that's why I kept this in my DSA sheet
+//And you can also try to solve this problem using Recursion
