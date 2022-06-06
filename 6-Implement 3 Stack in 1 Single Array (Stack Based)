@@ -84,3 +84,5 @@ public class ThreeInOne {
   }
 
 }
+
+//But this isn't the optimal approach becuase it does not uses the space effeciently
